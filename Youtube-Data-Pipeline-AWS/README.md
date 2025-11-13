@@ -77,7 +77,7 @@ Following is the architecture of the project.
 
 ## Dashboard
 
-Access simplified dashboard from <a href='https://github.com/waqarg2001/Youtube-Data-Pipeline-AWS/blob/main/assets/dashboard.pdf'>here</a>.
+Access simplified dashboard from <a href='https://github.com/Tharmithan-N/e2e-dataengineering-priject2/blob/main/Youtube-Data-Pipeline-AWS/assets/AWS_Python_ETL_Project_Architecture.png'>here</a>.
 
 
 ## Screenshots
@@ -87,4 +87,5 @@ Following are project execution screenshots from AWS portal.
 <img src="https://github.com/waqarg2001/Youtube-Data-Pipeline-AWS/blob/main/assets/ss1.png" width=900 height=400>
 <br>
 <img src="https://github.com/waqarg2001/Youtube-Data-Pipeline-AWS/blob/main/assets/ss2.png" width=900 height=400>
+
 
